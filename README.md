@@ -1,2 +1,2 @@
-# LAB_11
+# String
 ## Algoritimo que exemplifica o string.
